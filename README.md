@@ -2,7 +2,7 @@
 
 ## What is Growth Mindset? 
 
-**It is always doing your best even when failure may come your way and always trying again until you succeed** 
+>**It is always doing your best even when failure may come your way and always trying again until you succeed** 
 
 ### Here are 3 daily reminders that I use for myself to stay in a growth mindset state of mind
 

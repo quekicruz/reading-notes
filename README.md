@@ -1,4 +1,23 @@
 # reading-notes
-## This is my reading notes for CodeFellows
+## What is Growth Mindset? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## This is my reading notes on Markdown
 

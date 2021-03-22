@@ -4,6 +4,8 @@
 
 ## Well now you might be wondering who am I? 
 
+!
+
 My name is Quentin Napu Ueki Cruz. I am a Guam native that moved to Washington to pursue a degree in Kinesiology which I accomplished in 2019 but due to recent circumstances I have decided to do a complete career change. My interest in coding/software engineering was 
 
 ### Here are 3 daily reminders that I use for myself to stay in a growth mindset state of mind

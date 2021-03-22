@@ -11,6 +11,8 @@
 3. Always refering back to my favorite Michael Jordan quote and it goes: 
 > I've missed more than 9,000 shots in my career. I've lost almost 300 games. Twenty-six times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.
 
+
+
 ## This is my reading notes on Markdown
 ### What is Markdown? 
 
@@ -40,9 +42,7 @@ My example: **The way the way clippers played today they looked unstoppable!**
 
 How to bold a text goes as follows: ** (Text) ** 
 
-*Lets move forward now and talk about italics* 
-
-The line you see above you is a clear example of how to put text in italics. 
+**Lets move forward now and talk about italics** 
 
 My example would be: *I never thought I would be doing code* 
 

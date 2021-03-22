@@ -1,4 +1,4 @@
-## This is my reading notes on Markdown
+# This is my reading notes on Markdown
 ### What is Markdown? 
 
 >It is a simple way to design/implement text for a web page.

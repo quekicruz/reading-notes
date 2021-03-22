@@ -1,9 +1,7 @@
 ## This is my reading notes on Markdown
 ### What is Markdown? 
 
-
-
-### It is simply a way to design/implement text on a webpage
+>It is a simple way to design/implement text for a web page.
 
 #### Now there is different ways to go about with design/implementation process
 

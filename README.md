@@ -1,6 +1,4 @@
-# reading-notes
-
-## What is Growth Mindset to Me? 
+# What is Growth Mindset to Me? 
 
 >It is always doing your best even when failure may come your way and always trying again until you succeed
 

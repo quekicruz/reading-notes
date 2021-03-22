@@ -18,9 +18,9 @@
 
 
 
-**It is simply a way to design/implement text on a webpage**
+### It is simply a way to design/implement text on a webpage
 
-### Now there is different ways to go about with design/implementation process
+#### Now there is different ways to go about with design/implementation process
 
 **Lets first start with some lists** 
 

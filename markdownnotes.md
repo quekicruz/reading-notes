@@ -5,6 +5,19 @@
 
 #### Now there is different ways to go about with design/implementation process
 
+#### Lets begin with headers 
+
+Headers are displayed in 6 different ways or tiers and this is showcased by the amount of pound signs presented.
+
+It begins with Heading 1(#)being the largest heading you will and as heading numbers increase, heading size will decrease in size
+
+Here is my example of the of different size headings:
+
+#### This what a 4 tier heading would look like 
+
+##### This is what a 5 tier heading looking like
+
+
 #### Lets first start with some lists
 
 My example of a list would be like so: 

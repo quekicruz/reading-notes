@@ -57,4 +57,12 @@ Here is my example of how to insert one
 
 My example is on food: 
 
-[chamorro food](https://www.annieschamorrokitchen.com/chamorro-dishes/)
+[Chamorro food](https://www.annieschamorrokitchen.com/chamorro-dishes/)
+
+**Always be sure to put the text you on the page in brackets**
+
+### The last portion I will cover are block quotes
+
+This is an easy to quote an individual. 
+
+How you would display this is by adding this a closed >(text) and it will appear as a quote on your page.

@@ -4,7 +4,7 @@
 
 ## Well now you might be wondering who am I? 
 
-![Q profile pic](
+![Q profile pic](A838AAFE-C179-4B54-BDEA-90F284538D72 (1).JPG)
 
 *My name is Quentin Napu Ueki Cruz, I also go by Q. I am a Guam native that moved to Washington to pursue a degree in Kinesiology which I accomplished in 2019 but due to recent circumstances I have decided to do a complete career change. My interest in coding/software engineering started with the help of one my roommates and it was then solidified after I took the 101 course designed by Code Fellows. It is now my dream to become a full stack developer to assist in the healthcare and fitness industry.*
 

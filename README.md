@@ -24,3 +24,4 @@
 
 * [Markdownnotes](markdownnotes.md)
 * [Texteditornotes](texteditornotes.md) 
+* [Gitnotes](gitnotes.md) 

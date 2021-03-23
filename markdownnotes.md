@@ -50,4 +50,11 @@ Here is my example of how to insert one
 
 ![nba clippers](https://upload.wikimedia.org/wikipedia/commons/3/3f/Los_angeles_clippers_logo_1984-2010.jpg)
 
-The note to be made is that you should always images that are open and free to public. 
+
+**The note to be made is that you should always images that are open and free to public**
+
+### Links are the next portion 
+
+My example is on food: 
+
+[chamorro food](https://www.annieschamorrokitchen.com/chamorro-dishes/)

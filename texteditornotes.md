@@ -53,8 +53,25 @@ Linux   |  Gedit
 
 ### Navigation
 
-**Where are we on the terminal** 
+**Where are we on the terminal???** 
+
+PWD (Print Working Directory)- Tells us where we are exactly 
+
+Ls (List)- Tells us whats in our location 
+
+**Different Paths**
+
+Path- It is what were are refering to in a specific directory
+
+Absolute- Specific location realtive to root.
+
+Relative- Explains where we are currently in the system.
+
+cd- how we can change directories.
+
+### Linux Key Terms/ Commands 
 
 
-### 
+
+
 

@@ -23,3 +23,20 @@ Compter | Text Editor
 Mac     |  TextEdit
 Windows |  Notepad
 Linux   |  Gedit
+
+### There are also 3rd Party Options 
+
+* NotePad ++
+* TextWrangler
+* BB Edit
+* Visual Studio Code
+* Atom
+* Brackets 
+* Sublime Text
+
+### Text Editor VS. IDE
+
+**IDE:** An IDE is a software that complies a variety of functions such as text editing, file mananing, and other helpful tools. 
+
+*An IDE is an upgrading version of a text editor because it has more function capabilites. 
+

@@ -42,4 +42,12 @@ How to bold a text goes as follows: **(Text)**
 
 My example would be: *I never thought I would be doing code* 
 
-The way to create italics would be as follows: *(Text)*
+The way to create italics would be as follows: *(Text)* 
+
+### The next portion is how to insert an image 
+
+Here is my example of how to insert one 
+
+![nba clippers](https://upload.wikimedia.org/wikipedia/commons/3/3f/Los_angeles_clippers_logo_1984-2010.jpg)
+
+The note to be made is that you should always images that are open and free to public. 

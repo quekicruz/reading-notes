@@ -15,3 +15,7 @@
 4. **Always refering back to my favorite Michael Jordan quote and it goes:**
 > I've missed more than 9,000 shots in my career. I've lost almost 300 games. Twenty-six times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.
 
+#### Here is my github and email information if you ever want to reach out and connect! 
+
+- Email: **napu0515@gmail.com**
+- Github: [Quentin Cruz](

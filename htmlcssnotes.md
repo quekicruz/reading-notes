@@ -1,4 +1,4 @@
-# This is my reading notes for HTML & CSS
+# This is my reading notes for HTML. 
 
 ### There are some key points to think about when designing a webpage
 
@@ -16,3 +16,30 @@
 * Here is an example of a wireframe 
 
 ![wireframe example](https://live.staticflickr.com/3440/3978139373_d9a0c34a96_b.jpg)
+
+*CONTENT AND ASESTHETIC ARE ESSENTIAL* 
+
+- Get the information across to the audience in a visually asesthetic manner. 
+
+- Use different fonts to capture audiences attention and emphasis different messages. 
+
+- Use grouping to help simplify information  
+
+
+### What is HTML 5? 
+
+**HTML 5 assists with new elemets to help describe/format a webpage.** 
+
+#### HTML 5 Elements 
+
+1. Header <header>
+2. Footer <footer>
+3. Navigation <nav>
+4. Articles <article>
+5. Asides
+6. Section 
+7. Heading Groups
+8. Figures
+9. Sectioning Elements 
+
+

@@ -20,6 +20,8 @@
 - Email: **napu0515@gmail.com**
 - Github: [Quentin Cruz](https://github.com/quekicruz)
 
-#### Table ofn Contents 
+#### Table of Contents 
 
 - [Markdownnotes](markdownnotes.md)
+
+-[Texteditornotes](texteditornotes.md) 

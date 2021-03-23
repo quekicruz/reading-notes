@@ -55,21 +55,27 @@ Linux   |  Gedit
 
 **Where are we on the terminal???** 
 
-PWD (Print Working Directory)- Tells us where we are exactly 
+* PWD (Print Working Directory)- Tells us where we are exactly 
 
-Ls (List)- Tells us whats in our location 
+* Ls (List)- Tells us whats in our location 
 
 **Different Paths**
 
-Path- It is what were are refering to in a specific directory
+* Path- It is what were are refering to in a specific directory
 
-Absolute- Specific location realtive to root.
+* Absolute- Specific location realtive to root.
 
-Relative- Explains where we are currently in the system.
+* Relative- Explains where we are currently in the system.
 
-cd- how we can change directories.
+* cd- how we can change directories.
 
 ### Linux Key Terms/ Commands 
+
+* file- what type of file is it. 
+
+* ls a- shows directory and hidden ones
+
+
 
 
 

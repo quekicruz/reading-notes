@@ -2,7 +2,7 @@
 
 >It is always doing your best even when failure may come your way and always trying again until you succeed
 
-## Well now you might be wondering who am I? 
+## Who Am I?
 
 ![Q profile pic](A838AAFE-C179-4B54-BDEA-90F284538D72 (1).JPG)
 

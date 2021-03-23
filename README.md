@@ -18,4 +18,4 @@
 #### Here is my github and email information if you ever want to reach out and connect! 
 
 - Email: **napu0515@gmail.com**
-- Github: [Quentin Cruz](
+- Github: [Quentin Cruz](https://github.com/quekicruz)

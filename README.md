@@ -22,6 +22,5 @@
 
 #### Table of Contents 
 
-- [Markdownnotes](markdownnotes.md)
-
--[Texteditornotes](texteditornotes.md) 
+* [Markdownnotes](markdownnotes.md)
+* [Texteditornotes](texteditornotes.md) 

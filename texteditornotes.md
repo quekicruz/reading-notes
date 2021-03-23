@@ -40,3 +40,21 @@ Linux   |  Gedit
 
 *An IDE is an upgrading version of a text editor because it has more function capabilites. 
 
+
+### Command Line or Terminal 
+
+**It navigation system that requires text for specific commands and in return text will be outputted dependent on the text/command prompt.**
+
+*Finding the terminal is dependent on your device* 
+
+* Mac: Applications;Utilities;Terminal
+
+* Linux: System;Utilities
+
+### Navigation
+
+**Where are we on the terminal** 
+
+
+### 
+

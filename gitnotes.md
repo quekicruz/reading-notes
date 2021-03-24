@@ -36,5 +36,4 @@ Before we start talking about git we need to understand first **version control 
 
 * **P**ush 
 
-
 [Home](https://quekicruz.github.io/reading-notes/)

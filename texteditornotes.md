@@ -74,7 +74,6 @@ fjf
 
 * ls a- shows directory and hidden ones
 
-
 [Home](https://quekicruz.github.io/reading-notes/)
 
 

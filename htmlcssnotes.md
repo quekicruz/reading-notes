@@ -46,5 +46,4 @@
 
 ![html5example](https://upload.wikimedia.org/wikipedia/commons/1/1b/Web_design_in_HTML5.jpg)
 
-
 [Home](https://quekicruz.github.io/reading-notes/)

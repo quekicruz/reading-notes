@@ -72,3 +72,6 @@ It is a the smallest amount of information a computer can store.
 - A CPU fetches various binaries to carry out commands
 
 #### The operating system of a computer with the CPU allows for various softwares to run at the same time.
+
+
+[Home](https://quekicruz.github.io/reading-notes/)

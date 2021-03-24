@@ -1,4 +1,4 @@
-# This is my notes for my intro git
+# This is my notes for my intro into git
 
 Before we start talking about git we need to understand first **version control system**
 
@@ -35,3 +35,6 @@ Before we start talking about git we need to understand first **version control 
 * **C**ommit 
 
 * **P**ush 
+
+
+[Home](https://quekicruz.github.io/reading-notes/)

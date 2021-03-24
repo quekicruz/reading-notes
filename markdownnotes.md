@@ -66,3 +66,6 @@ My example is on food:
 This is an easy to quote an individual. 
 
 How you would display this is by adding this a closed >(text) and it will appear as a quote on your page.
+
+
+[Home](https://quekicruz.github.io/reading-notes/)

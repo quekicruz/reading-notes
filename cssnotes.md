@@ -20,3 +20,6 @@
 ### Opacity 
 
 - Opacity- Allows for more background color to be present and also transparency for the background color. 
+
+
+[Home](https://quekicruz.github.io/reading-notes/)

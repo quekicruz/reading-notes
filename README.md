@@ -22,16 +22,19 @@
 
 #### Table of Contents 
 
-* [Markdownnotes](markdownnotes.md)
+* [MarkDownNotes](markdownnotes.md)
 
 
-* [Texteditornotes](texteditornotes.md) 
+* [TextEditorNotes](texteditornotes.md) 
 
 
-* [Gitnotes](gitnotes.md) 
+* [GitHotes](gitnotes.md) 
 
 
 * [HTMLnotes](htmlcssnotes.md)
 
 
-* [CSSnotes](cssnotes.md)
+* [CSSNotes](cssnotes.md)
+
+
+* [JavascriptNotes](javascript.md)

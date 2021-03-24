@@ -33,3 +33,5 @@
     -Ex: 'Hey Ma'
 3. Boolean
     -Ex: True or False statements 
+
+[Home](https://quekicruz.github.io/reading-notes/)

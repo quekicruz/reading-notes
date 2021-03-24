@@ -2,7 +2,7 @@
 
 *CSS allows specific colors for text*
 
-## There are different elements for CSSS 
+## There are different elements for CSS
 
 1. rgb values- Expresses how much color is wanted for text 
    - Ex: rgb(100,100,90)

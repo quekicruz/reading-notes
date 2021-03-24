@@ -16,7 +16,7 @@ A text editor is a specific software that is downloadable that assist an individ
 ### There are different types of Text Editors 
 
 **You may already have some on your computer without even knowing**
-fjf
+
 #### Computer & Text Editors 
 
 1. Mac- TextEdit

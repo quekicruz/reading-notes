@@ -30,8 +30,8 @@ Before we start talking about git we need to understand first **version control 
 
 *git uses the ACP to carry its specifics features* 
 
-* *A*dd 
+* **A**dd 
 
-* *C*ommit 
+* **C**ommit 
 
-* *P*ush 
+* **P**ush 

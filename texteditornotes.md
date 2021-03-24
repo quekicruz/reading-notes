@@ -16,13 +16,12 @@ A text editor is a specific software that is downloadable that assist an individ
 ### There are different types of Text Editors 
 
 **You may already have some on your computer without even knowing**
+fjf
+#### Computer & Text Editors 
 
-Compter | Text Editor
-        |
-----------------------
-Mac     |  TextEdit
-Windows |  Notepad
-Linux   |  Gedit
+1. Mac- TextEdit
+2. Windows- Notepad
+3. Linux- Gedit
 
 ### There are also 3rd Party Options 
 

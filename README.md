@@ -28,16 +28,17 @@
 * [TextEditorNotes](texteditornotes.md) 
 
 
-* [GitHotes](gitnotes.md) 
+* [GitNotes](gitnotes.md) 
 
 
-* [HTMLnotes](htmlcssnotes.md)
+
+* [HTMLNotes](htmlcssnotes.md)
 
 
 * [CSSNotes](cssnotes.md)
 
 
-* [JavascriptNotes](javascript.md)
+* [JavaScriptNotes](javascript.md)
 
 
 * [HowComputersWorkNotes](howcomputerswork.md)

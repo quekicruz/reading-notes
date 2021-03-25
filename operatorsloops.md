@@ -35,3 +35,5 @@
 * **!** Logical not 
     - Takes a single boolean value and inverts it 
 
+
+[Home](https://quekicruz.github.io/reading-notes/)

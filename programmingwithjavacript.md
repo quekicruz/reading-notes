@@ -96,4 +96,4 @@
 
 * They are specific values in the functions' parentheses. 
 
-
+[Home](https://quekicruz.github.io/reading-notes/)

@@ -29,10 +29,10 @@
 * **&&**- Logical and 
     - Tests more than one condition
 
-* **||** Logical or
+* **||**- Logical or
     - Tests at least one condition
 
-* **!** Logical not 
+* **!**- Logical not 
     - Takes a single boolean value and inverts it 
 
 

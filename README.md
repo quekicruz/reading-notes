@@ -42,4 +42,4 @@
 
 * [HowComputersWorkNotes](howcomputerswork.md)
 
-* [ProgrammingwithJavaScriptNotes](programmingwithjavascript.md)
+* [ProgrammingwithJavaScriptNotes](programmingwithjavacript.md)

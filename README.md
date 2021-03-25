@@ -42,4 +42,8 @@
 
 * [HowComputersWorkNotes](howcomputerswork.md)
 
+
 * [ProgrammingwithJavaScriptNotes](programmingwithjavacript.md)
+
+
+* [Operators&LoopsNotes](operatorsloops.md)

@@ -4,6 +4,8 @@
 
 - This website will be a culmination of all my reading notes from code 201. You will have access to all the material I have learned throughout my code 201 journey. 
 
+- Below you will find my table of contents which will be your guide throughout this website and it also offers a showcase of my previous work from Code 102.
+
 ## Table of Contents 
 
 * [Code102Notes](Code102Notes.md)

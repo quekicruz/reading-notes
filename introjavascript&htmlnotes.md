@@ -135,13 +135,13 @@
 ### HTML,CSS, & JavaScript
 
 1. HTML:(.html)/ Content Layer
-    The structure of the webpage
+    - The structure of the webpage
 
 2. CSS: (.css)/ Presentation Layer
-    The design of the webepage 
+    - The design of the webepage 
 
 3. JavaScript: (.js)/ Behavior Layer
-    The interactiveness of webpage
+    - The interactiveness of webpage
 
 ### JavaScript: Objects & Methods
 
@@ -163,4 +163,4 @@
 **JavaScript will only appear where the script link is inserted in the HTML file**
 
 
-[Home](README.md)
+[Home](https://quekicruz.github.io/reading-notes/)

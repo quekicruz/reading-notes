@@ -16,5 +16,5 @@
 
 1. Headings 
   - There are six different levels of headings
-    - <h1>
-    - <h2>
+    - '<h1>'
+    - '<h2>'

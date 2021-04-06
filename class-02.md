@@ -15,6 +15,7 @@
 #### Structural Elements 
 
 1. Headings 
+
   - There are six different levels of headings
 
     1. '<h1></h1>'
@@ -25,45 +26,68 @@
     6. '<h6></h6>'
 
 2. Paragraphs
+
   - Are shown as **p** with an opening and closing
   - Ex: '<p></p>'
 
 3. Bold
+
   - Makes words **bold**
+
   - Ex: '<b></b>'
 
 4. Italics
+
   - Makes words in *italics*
+
   - Ex: '<i></i>'
 
 5. Superscript 
+
   - Gives superscript to text that need it
+
   - Ex: '<sup></sup>'
 
 6. Subscript 
+
   - Gives subscript to text that need it
+
   - Ex: '<sub></sub>'
 
 7. Line breaks
+
   - Creates breaks in paragraphs 
+
   - Ex: '<br></br>'
+
 8. Horizontal rules
   - Creates horizontal lines between p lines 
-  - Ex; '<hr></hr>'
+
+  - Ex; '<hr> </hr>'
 
 #### Semantic Elements
 
-1. <strong>
-2. <em>
-3. <blockquote>
-4. <q>
-5. <abbr>
-6. <cite>
-7. <dfn>
-8. <address>
-9. <ins>
-9. <del>
-10. <s>
+1. strong
+
+2. em
+
+3. blockquote
+
+4. q
+
+5. abbr
+
+6. cite
+
+7. dfn
+
+8. address
+
+9. ins
+
+9. del
+
+10. s
 
 ## How does CSS work?
 

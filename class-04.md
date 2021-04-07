@@ -105,6 +105,9 @@ Ex: `function sayHello(){ document.write('hello!');}`
 5. **Job Interview readiness** 
       - Companies can get an idea of how an individual works with others to know how they will fit in company 
       - At times company look more at communication skills than technical skills 
-      
+
 6. **Work Environment readiness**
       - Code Fellow graduates are better equipped when entering the work industry because they are more exposed to pair programming 
+
+
+[Home](README.md)

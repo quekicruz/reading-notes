@@ -175,3 +175,6 @@
 
 - `GIF`: supports 256 colors 
 
+
+[Home](README.md)
+

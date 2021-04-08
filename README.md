@@ -17,3 +17,5 @@
 * [Statements&Loops](class-03.md)
 
 * [Links,Layout,Functions](class-04.md)
+
+*[Images,Colors,Text](class-05.md)

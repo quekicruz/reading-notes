@@ -19,3 +19,5 @@
 * [Links,Layout,Functions](class-04.md)
 
 * [Images,Colors,Text](class-05.md)
+
+* [ProblemDomain,Objects,theDom](class06.md)

@@ -20,4 +20,4 @@
 
 * [Images,Colors,Text](class-05.md)
 
-* [ProblemDomain,Objects,theDom](class06.md)
+* [ProblemDomain,Objects,theDom](class-06.md)

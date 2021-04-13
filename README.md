@@ -23,3 +23,5 @@
 * [ProblemDomain,Objects,theDom](class-06.md)
 
 * [Object-OrientedProgramming,HTMLtables](class-07.md)
+
+* [MoreCSSLayout](class-08.md)

@@ -27,3 +27,5 @@
 * [MoreCSSLayout](class-08.md)
 
 * [Forms&JSEvents](class-09.md)
+
+* [Debugging](class-10.md)

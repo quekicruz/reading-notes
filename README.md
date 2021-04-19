@@ -31,3 +31,5 @@
 * [Debugging](class-10.md)
 
 * [Audio,Video,Images](class-11.md)
+
+* [Chart.js,Canvas](class-12.md)

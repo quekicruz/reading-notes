@@ -33,3 +33,5 @@
 * [Audio,Video,Images](class-11.md)
 
 * [Chart.js,Canvas](class-12.md)
+
+* [LocalStorage](class-13.md)

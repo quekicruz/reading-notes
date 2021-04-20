@@ -13,7 +13,7 @@
 
 - It is very simple to install chart.js and it also very quick.
 
-# <canvas> element 
+# Canvas element 
 
 - `<canvas>` : only has 2 elements which width and height 
 

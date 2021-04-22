@@ -35,3 +35,7 @@
 * [Chart.js,Canvas](class-12.md)
 
 * [LocalStorage](class-13.md)
+
+* [CSSTransforms,Transitions,Animations](class-14a.md)
+
+* [Google&Teams](class-14b.md)

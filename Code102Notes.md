@@ -53,7 +53,8 @@
 
 ## 201 & 301 Notes 
 
-* [Code201Notes](Code201Notes.md)
+* [Code 201 - Foundations of Software Development](Code201Notes.md)
 
-* [Code301Notes](README.md)
+* [Code 301 - Intermediate Software Development](Code301Notes.md)
+
 

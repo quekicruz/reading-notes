@@ -1,4 +1,4 @@
-# Quentin Cruz Code Fellow Reading Notes
+# Quentin Cruz CF Reading Notes
 
 ## What is this website about? 
 

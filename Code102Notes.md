@@ -51,8 +51,9 @@
 
 * [Operators&LoopsNotes](operatorsloops.md)
 
-## Back to Code 201 Notes 
+## 201 & 301 Notes 
 
-* [Code201Notes](README.md)
+* [Code201Notes](Code201Notes.md)
 
+* [Code301Notes](README.md)
 

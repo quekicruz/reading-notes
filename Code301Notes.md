@@ -5,3 +5,5 @@
 * [Introduction to React and Components](IntroReact&Components.md)
 
 * [React: Component Lifecycle Events](ReactLC.md)
+
+* [Passing Functions As Props](PassFunctions.md)

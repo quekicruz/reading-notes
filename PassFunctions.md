@@ -35,7 +35,7 @@
 `Spread`
 `const combined2 = [...cars, ...trucks];`
  `[ '🚗', '🚙', '🚚', '🚛' ]`
- 
+
  - [This](https://www.samanthaming.com/tidbits/49-2-ways-to-merge-arrays/) link is where I got my example.
 
  - **EX of spread to add item to Array**
@@ -96,7 +96,14 @@
 
 - The you can call that method in the parent `(child to parent)`
 
-- 
+
+## Things I Want To Know 
+
+- I want to practice the whole practice 
+
+- I definitely want to better understand linking the parent and the child with methods 
+
+- I also want to play around with the spread operator and see it in action. 
 
 
 

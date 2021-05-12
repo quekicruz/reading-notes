@@ -56,4 +56,5 @@
 
 - I also want to better understand the concepts as a whole 
 
-- 
+
+* [Home](Code301Notes.md)

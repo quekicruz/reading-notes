@@ -57,3 +57,7 @@
 
 - I want to better understand both of these concepts since I do feel a bit lost in the description. 
     - I will definitely be watching more videos to understand the concepts and obtain a better grasp on the concepts in the future. 
+
+
+
+* [Home](Code301Notes.md)

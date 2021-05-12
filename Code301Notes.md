@@ -9,3 +9,5 @@
 * [Passing Functions As Props](PassFunctions.md)
 
 * [React And Forms](React&Forms.md)
+
+* [Thinking In React](ThinkInReact.md)

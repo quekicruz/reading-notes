@@ -23,3 +23,11 @@
 * [Functional Programming](FunctionProgram.md)
 
 * [In Memory Storage](InMemory.md)
+
+* [Authentication](OAuth.md)
+
+* [Mongo and Mogoose](Mongo&M.md)
+
+* [CRUD](CRUD.md)
+
+* [Diversity & Inclusion in the Tech Industry](Diversity.md)
